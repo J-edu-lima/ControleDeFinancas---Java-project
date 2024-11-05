@@ -6,13 +6,13 @@
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>3.3.5</version>
-		<relativePath/> <!-- lookup parent from repository -->
+		<relativePath/>
 	</parent>
-	<groupId>com.jedu_lima</groupId>
+	<groupId>com.controladordefinancas</groupId>
 	<artifactId>controladorDeFinancas</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>controladorDeFinancas</name>
-	<description>APi com o objetivo de controlar e organizar despesas </description>
+	<name>Controlador de Finanças</name>
+	<description>API com o objetivo de controlar e organizar despesas </description>
 	<url/>
 	<licenses>
 		<license/>
@@ -112,5 +112,4 @@
 			</plugin>
 		</plugins>
 	</build>
-
 </project>

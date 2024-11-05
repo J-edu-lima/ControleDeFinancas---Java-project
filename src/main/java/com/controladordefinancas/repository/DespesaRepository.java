@@ -1,6 +1,6 @@
-package com.jedu_lima.controladorDeFinancas.repository;
+package com.controladordefinancas.repository;
 
-import com.jedu_lima.controladorDeFinancas.entity.DespesaEntity;
+import com.controladordefinancas.entity.DespesaEntity;
 import org.springframework.data.mongodb.repository.MongoRepository;
 
 public interface DespesaRepository extends MongoRepository<DespesaEntity, Long> {

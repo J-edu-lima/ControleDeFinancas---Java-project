@@ -1,4 +1,4 @@
-package com.jedu_lima.controladorDeFinancas.entity;
+package com.controladordefinancas.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

@@ -1,4 +1,4 @@
-package com.jedu_lima.controladorDeFinancas;
+package com.controladordefinancas;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,7 +1,7 @@
-package com.jedu_lima.controladorDeFinancas.mapper;
+package com.controladordefinancas.mapper;
 
-import com.jedu_lima.controladorDeFinancas.entity.UsuarioEntity;
-import com.jedu_lima.controladorDeFinancas.model.CriarUsuarioEntradaDTO;
+import com.controladordefinancas.entity.UsuarioEntity;
+import com.controladordefinancas.model.CriarUsuarioEntradaDTO;
 
 public class UsuarioMapper {
 

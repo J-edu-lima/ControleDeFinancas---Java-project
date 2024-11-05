@@ -1,7 +1,7 @@
-package com.jedu_lima.controladorDeFinancas.mapper;
+package com.controladordefinancas.mapper;
 
-import com.jedu_lima.controladorDeFinancas.entity.DespesaEntity;
-import com.jedu_lima.controladorDeFinancas.model.CriarDespesaEntradaDTO;
+import com.controladordefinancas.entity.DespesaEntity;
+import com.controladordefinancas.model.CriarDespesaEntradaDTO;
 
 public class DespesaMapper {
 
