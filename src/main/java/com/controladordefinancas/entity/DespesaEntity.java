@@ -1,6 +1,6 @@
-package com.jedu_lima.controladorDeFinancas.entity;
+package com.controladordefinancas.entity;
 
-import com.jedu_lima.controladorDeFinancas.entity.enums.Categoria;
+import com.controladordefinancas.entity.enums.Categoria;
 import lombok.*;
 import org.springframework.data.mongodb.core.mapping.Document;
 
