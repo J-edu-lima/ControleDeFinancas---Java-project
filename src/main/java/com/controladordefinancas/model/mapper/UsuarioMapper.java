@@ -1,7 +1,7 @@
-package com.controladordefinancas.mapper;
+package com.controladordefinancas.model.mapper;
 
 import com.controladordefinancas.entity.UsuarioEntity;
-import com.controladordefinancas.model.CriarUsuarioEntradaDTO;
+import com.controladordefinancas.model.dto.CriarUsuarioEntradaDTO;
 
 public class UsuarioMapper {
 
